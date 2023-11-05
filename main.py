@@ -11,10 +11,10 @@ with col1:
     st.image("images\photo.jpeg",width=500)
 
 with col2:
-    st.title("  ninud")
-    st.info('they call me cool (i am delusional).')
+    st.title("  ninad moharir.")
+    st.info('i love making stuff.')
 
-info = '''apps i did not make:'''
+info = '''apps i did make (trust):'''
 st.title(info)
 
 # with open('data.csv','r') as file:

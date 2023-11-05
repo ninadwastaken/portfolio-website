@@ -1,4 +1,4 @@
-import smtplib, ssl
+import smtplib, ssl, os
 
 
 def send_email(message):
@@ -7,7 +7,7 @@ def send_email(message):
 
 
     username = 'ninad2eyes@gmail.com'
-    password = 'vuvotcwfcbzomiep'
+    password = os.getenv("portfolio_website_gmail_password")
 
     receiver = 'ninad2eyes@gmail.com'
 
