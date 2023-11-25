@@ -1,21 +1,11 @@
 title;description;url;image
-Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://youtu.be/dQw4w9WgXcQ;1.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://youtu.be/dQw4w9WgXcQ;2.png
-PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://youtu.be/dQw4w9WgXcQ;3.png
-PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://youtu.be/dQw4w9WgXcQ;4.png
-Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://youtu.be/dQw4w9WgXcQ;5.png
-Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://youtu.be/dQw4w9WgXcQ;6.png
-Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://youtu.be/dQw4w9WgXcQ;7.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://youtu.be/dQw4w9WgXcQ;8.png
-Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://youtu.be/dQw4w9WgXcQ;9.png
-Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://youtu.be/dQw4w9WgXcQ;10.png
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://youtu.be/dQw4w9WgXcQ;11.png
-Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://youtu.be/dQw4w9WgXcQ;12.png
-Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://youtu.be/dQw4w9WgXcQ;13.png
-Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://youtu.be/dQw4w9WgXcQ;14.png
-Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://youtu.be/dQw4w9WgXcQ;15.png
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://youtu.be/dQw4w9WgXcQ;16.png
-Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://youtu.be/dQw4w9WgXcQ;17.png
-School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://youtu.be/dQw4w9WgXcQ;18.png
-Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://youtu.be/dQw4w9WgXcQ;19.png
-Online Store;A Django online store app where users can place orders and sellers can manage them.;https://youtu.be/dQw4w9WgXcQ;20.png
+QuiQ (Quantum Path Finder);An app made in JS and Python to determine the best addition in the NYC subway system by simulating qubits.;https://github.com/grid-rider/Qpath_optimizer;subway.png
+Library Management App;A management app made using Tkinter to make library administration 75% automatic.;https://github.com/ninadwastaken/library_desktop_app;library.png
+Automatic Folding Board;A sketch made using Arduino language for automatically folding clothes using ultrasonic sensors and servo motors.;https://github.com/ninadwastaken/foldmatic;folding_board.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/ninadwastaken/pdf-maker;3.png
+Weather Forecast Web App;A web-app that works with a weather API to display temperature and rainfall of any city on a graph.;https://github.com/ninadwastaken/weather-forecast-webapp;weather-icon.png
+AI Chess App;A chess app made in C++ and Python which acts as a low-level chess-engine.;https://github.com/Dragon-KK/chez;chess.png
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/ninadwastaken/todo-web-app;1.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/ninadwastaken/excel-to-pdf-invoicer;4.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/ninadwastaken/weather-api-flask-website;6.png
+Portfolio Website;My portfolio website :).;https://github.com/ninadwastaken/portfolio-website;professional-portfolio.png

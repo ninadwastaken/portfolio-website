@@ -8,13 +8,17 @@ st.set_page_config(layout='wide')
 col1,col2 = st.columns(2)
 
 with col1:
-    st.image("images/photo.jpeg",width=500)
+    st.image("images/photo.jpg",width=500)
 
 with col2:
     st.title("  ninad moharir.")
-    st.info('i love making stuff.')
+    st.info('''
+    i love making stuff.                           
+    i'm a freshman at nyu tandon.                      
+    i'm majoring in computer science.
+    ''')
 
-info = '''apps i did make (trust):'''
+info = '''things i made:'''
 st.title(info)
 
 # with open('data.csv','r') as file:
